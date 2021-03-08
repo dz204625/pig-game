@@ -1,2 +1,3 @@
 # pig-game
-This is project that from U-demy course project.
+This is project I code along from U-demy Javascript course project. 
+Instructor: Jonas Schmedtmann
